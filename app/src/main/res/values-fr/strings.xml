@@ -48,4 +48,7 @@
     <string name="MUSIC_QUEUE_EMPTY">&lt;Liste Vide&gt;</string>
     <string name="MUSIC_SKIP_PREVIOUS">Précédent</string>
     <string name="MUSIC_SKIP_NEXT">Suivant</string>
+
+    <string name="NOTIFICATION_POPUPS">Popups de Notification</string>
+    <string name="NOTIFICATION_POPUPS_PASSENGER">Popups de Notification Passager</string>
 </resources>

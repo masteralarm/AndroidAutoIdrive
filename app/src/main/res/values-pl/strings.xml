@@ -77,4 +77,7 @@
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_ON">Powtarzaj pojedynczo </string>
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_OFF">Wyłącz powtarzanie</string>
     <string name="MUSIC_SPOTIFY_ADD_TO_COLLECTION">Polub</string>
+
+    <string name="NOTIFICATION_POPUPS">Wyskakujace okno powiadomień</string>
+    <string name="NOTIFICATION_POPUPS_PASSENGER">Powidomienie z siedzacym pasazerem</string>
 </resources>

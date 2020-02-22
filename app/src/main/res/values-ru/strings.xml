@@ -77,4 +77,7 @@
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_ON">Повторить Одну</string>
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_OFF">Выключить Повтор</string>
     <string name="MUSIC_SPOTIFY_ADD_TO_COLLECTION">Нравится</string>
+
+    <string name="NOTIFICATION_POPUPS">Всплывающие Уведомления</string>
+    <string name="NOTIFICATION_POPUPS_PASSENGER">Всплывающие Уведомления с Пасажиром</string>
 </resources>

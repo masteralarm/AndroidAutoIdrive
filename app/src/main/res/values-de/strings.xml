@@ -70,4 +70,7 @@
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_ON">Einfach Wiederholen einschalten</string>
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_OFF">Wiederholen ausschalten</string>
     <string name="MUSIC_SPOTIFY_ADD_TO_COLLECTION">Gefällt mir</string>
+
+    <string name="NOTIFICATION_POPUPS">Benachrichtigungs-Popups</string>
+    <string name="NOTIFICATION_POPUPS_PASSENGER">Popups mit Beifahrer</string>
 </resources>

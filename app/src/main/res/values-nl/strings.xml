@@ -79,4 +79,7 @@
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_ON">Eenmalig herhalen aan</string>
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_OFF">Herhalen uit</string>
     <string name="MUSIC_SPOTIFY_ADD_TO_COLLECTION">Aan collectie toevoegen</string>
+
+    <string name="NOTIFICATION_POPUPS">Popups</string>
+    <string name="NOTIFICATION_POPUPS_PASSENGER">Popups met passagiers</string>
 </resources>

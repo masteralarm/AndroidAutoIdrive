@@ -67,4 +67,7 @@
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_ON">Ativar repetir atual</string>
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_OFF">Desativar repetir</string>
     <string name="MUSIC_SPOTIFY_ADD_TO_COLLECTION">Gosto</string>
+
+    <string name="NOTIFICATION_POPUPS">Popups de notificação</string>
+    <string name="NOTIFICATION_POPUPS_PASSENGER">Popups para o passageiro</string>
 </resources>

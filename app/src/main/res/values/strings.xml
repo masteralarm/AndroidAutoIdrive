@@ -86,4 +86,8 @@
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_ON">Turn Repeat One On</string>
     <string name="MUSIC_SPOTIFY_TURN_REPEAT_ONE_OFF">Turn Repeat Off</string>
     <string name="MUSIC_SPOTIFY_ADD_TO_COLLECTION">Like</string>
+
+    <string name="NOTIFICATION_OPTIONS">Options</string>
+    <string name="NOTIFICATION_POPUPS">Notification Popups</string>
+    <string name="NOTIFICATION_POPUPS_PASSENGER">Popups with passenger</string>
 </resources>

@@ -55,4 +55,7 @@
     <string name="MUSIC_QUEUE_EMPTY">&lt;Neniuj&gt;</string>
     <string name="MUSIC_SKIP_PREVIOUS">Antaŭu</string>
     <string name="MUSIC_SKIP_NEXT">Sekvu</string>
+
+    <string name="NOTIFICATION_POPUPS">Novaĵoj Saltadaj</string>
+    <string name="NOTIFICATION_POPUPS_PASSENGER">Saltadoj apud pasaĝero</string>
 </resources>
